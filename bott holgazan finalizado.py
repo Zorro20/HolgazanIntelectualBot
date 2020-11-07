@@ -1,12 +1,5 @@
 #Importamos las librerias y modulos
-import logging
-import telebot
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-#Habilitar el registro
-logging.basicConfig(level=logging.DEBUG,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-logger = logging.getLogger()
-logger.setLevel(logging.DEBUG)
 #Definimos algunos controladores de comandos
 def start(update, context):
     "" "Envía un mensaje cuando se emite el comando /hola." ""
