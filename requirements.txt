@@ -1,1 +1,2 @@
-telegrambot.ext
+python-telegram-bot
+pyTelegramBotAPI
