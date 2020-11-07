@@ -1,1 +1,1 @@
-worker: python bott holgazan finalizado
+worker: python bott holgazan finalizado.py
