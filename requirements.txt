@@ -1,2 +1,2 @@
 python-telegram-bot
-pyTelegramBotAPI
+pyTelegramBotAPI 3.7.3
